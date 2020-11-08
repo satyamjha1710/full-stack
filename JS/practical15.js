@@ -17,7 +17,7 @@ function increment() {
     count += 1;
     document.getElementById("counter").innerHTML = count;
 }
-
+// decrement function
 function decrement() {
 
     if (count > 0) {
